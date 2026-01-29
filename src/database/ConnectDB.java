@@ -18,7 +18,7 @@ public class ConnectDB {
 
         String url = "jdbc:sqlserver://localhost:1433;databasename=OmegaBook";
         String user = "sa";
-        String password = "sapassword"; //123456aA@$
+        String password = "123456aA@$"; //123456aA@$
 
         conn = DriverManager.getConnection(url, user, password);
 
