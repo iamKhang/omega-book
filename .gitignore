@@ -6,6 +6,9 @@ dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
+.idea/
+.vscode/
+out/
 
 # Class Files #
 *.class
@@ -15,3 +18,6 @@ nb-configuration.xml
 *.ear
 
 lastOrder.pdf
+lastReturnOrder.pdf
+omega-book.iml
+.DS_Store
